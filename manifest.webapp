@@ -4,10 +4,10 @@
   "type": "web",
   "ime_default_softkey_bar": true,
   "version": "1.2",
-  "launch_path": "https://meet.google.com",
+  "start_url": "https://meet.google.com",  // Changed to start_url
   "developer": {
-    "name": "CyberSH Official",
-    "url": "https://github.com/ShTasrif"
+    "name": "SH Meet",
+    "url": "https://meet.google.com"
   },
   "default_locale": "en-US",
   "cursor": true,
